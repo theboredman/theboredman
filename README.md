@@ -1,8 +1,8 @@
-[![GitHub Banner]([https://example.com/your-banner-image.jpg](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif))](https://github.com/theboredman)
+[![GitHub Banner](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://github.com/theboredman)
 
 <h1 align="center">Hi 👋, I'm Asadullah Hil Galib</h1>
 <h3 align="center">Crafting Digital Solutions and Nurturing Knowledge at the Intersection of Technology and Creativity.</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theboredman&label=Profile%20views&color=0e75b6&style=flat" alt="theboredman" /> </p>
 
