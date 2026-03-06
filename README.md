@@ -5,7 +5,6 @@
 </p>
 
 <br/>
-<br/>
 
 <p align="center">
   <a href="mailto:imgalibb@gmail.com"><img src="https://img.shields.io/badge/Email-imgalibb@gmail.com-1f6feb?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp;
@@ -49,7 +48,7 @@ class Galib:
 
 <div align="center">
 
-## 🛠️ Tech Stack
+## 🛠️ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Tech Stack
 
 **`Languages`**
 
@@ -100,7 +99,7 @@ class Galib:
 
 <div align="center">
 
-## 🚀 Featured Projects
+## 🚀 <img src="https://media.giphy.com/media/l3vR16pONMY0w11jG/giphy.gif" width="30"> Featured Projects
 
 </div>
 
@@ -165,19 +164,18 @@ class Galib:
 
 ## 📊 GitHub Analytics
 
-<p>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=theboredman&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&ring_color=1f6feb&icon_color=1f6feb&title_color=e6edf3&text_color=8b949e&bg_color=0d1117"/>
-  &nbsp;&nbsp;
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theboredman&layout=compact&theme=github_dark&hide_border=true&title_color=e6edf3&text_color=8b949e&bg_color=0d1117"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=theboredman&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true&ring_color=1f6feb&icon_color=1f6feb&title_color=e6edf3&text_color=8b949e&bg_color=0d1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theboredman&layout=compact&theme=react&hide_border=true&title_color=e6edf3&text_color=8b949e&bg_color=0d1117" alt="Top Langs" />
 </p>
 
-<br/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theboredman&theme=react&hide_border=true&ring=1f6feb&fire=1f6feb&currStreakLabel=e6edf3&sideLabels=8b949e&background=0d1117" alt="GitHub Streak" />
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=theboredman&theme=github-dark-blue&hide_border=true&ring=1f6feb&fire=1f6feb&currStreakLabel=e6edf3&sideLabels=8b949e&background=0d1117"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=theboredman&theme=github-dark&hide_border=true&bg_color=0d1117&color=8b949e&line=1f6feb&point=e6edf3&area=true&area_color=1f6feb"/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theboredman&theme=react&hide_border=true&bg_color=0d1117&color=8b949e&line=1f6feb&point=e6edf3&area=true&area_color=1f6feb" alt="Activity Graph" />
+</p>
 
 </div>
 
@@ -214,16 +212,6 @@ class Galib:
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </p>
-
-<div align="center">
-
-### 🎵 Vibing to
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=1f6feb&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&redirect=true)
-
-> _Replace `YOUR_SPOTIFY_ID` with your Spotify user ID from [spotify-github-profile](https://spotify-github-profile.kittinanx.com/)._
-
-</div>
 
 <br/>
 
