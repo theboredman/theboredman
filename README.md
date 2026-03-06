@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=230&section=header&text=Asadullah%20Hil%20Galib&fontSize=50&fontAlignY=36&fontColor=e6edf3&desc=AI%20Researcher%20%C2%B7%20Quantum%20Computing%20%C2%B7%20Agentic%20Systems&descAlignY=58&descSize=17&descColor=8b949e&animation=fadeIn)
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1F6FEB&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=55&lines=Building+intelligent+systems+that+think+%F0%9F%A7%A0;Quantum+ML+%7C+LLM+Orchestration+%7C+Edge+AI+%E2%9A%A1;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1F6FEB&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=120&lines=Building+intelligent+systems+that+think+%F0%9F%A7%A0;Quantum+ML+%7C+LLM+Orchestration+%7C+Edge+AI+%E2%9A%A1;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" /></a>
 </p>
 
 <br/>
@@ -20,7 +20,7 @@
 <tr>
 <td>
 
-<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAbout/main/icons/hacker.gif" width="220px" align="right" />
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="220px" align="right" />
 
 </td>
 <td>
