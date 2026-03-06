@@ -32,7 +32,7 @@ class Galib:
     lab         = "TriModal AI Lab — Quantum ML · Agentic AI · Edge Intelligence"
     interests   = ["Quantum ML", "LLM Orchestration", "Computer Vision",
                     "Edge AI", "FinML"]
-    learning    = ["Spring Boot", "Django REST Framework", "Flutter"]
+    learning    = ["Advanced QML", "Agentic Systems", "Deep Learning", "GenAI"]
     fun_fact    = "I don't sleep — I context-switch 🌙"
 ```
 
@@ -66,23 +66,23 @@ class Galib:
 <img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=ibm&logoColor=white"/>
 </p>
 
-**`Frameworks & Tools`**
+**`Data Science & Backend`**
 
 <p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logoColor=white"/>
 </p>
 
-**`Data & Infrastructure`**
+**`Infrastructure & MLOps`**
 
 <p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nvidia_CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=black"/>
+<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
@@ -180,9 +180,6 @@ class Galib:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/theboredman/theboredman/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/theboredman/theboredman/output/github-snake-dark.svg" />
 </picture>
-
-> _To activate the snake, add the [snake workflow](https://github.com/Platane/snk) to your profile repo's GitHub Actions._
-
 </div>
 
 <br/>
