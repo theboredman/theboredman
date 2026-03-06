@@ -7,6 +7,7 @@
 <br/>
 
 <p align="center">
+  <a href="https://theboredman.dev"><img src="https://img.shields.io/badge/Website-theboredman.dev-1f6feb?style=flat-square&logo=google-chrome&logoColor=white"/></a>&nbsp;
   <a href="mailto:imgalibb@gmail.com"><img src="https://img.shields.io/badge/Email-imgalibb@gmail.com-1f6feb?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp;
   <a href="https://linkedin.com/in/theboredman"><img src="https://img.shields.io/badge/LinkedIn-theboredman-1f6feb?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
   <a href="https://twitter.com/galibbii"><img src="https://img.shields.io/badge/Twitter-@galibbii-1f6feb?style=flat-square&logo=x&logoColor=white"/></a>&nbsp;
