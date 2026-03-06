@@ -42,10 +42,6 @@ class Galib:
 
 <br/>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</p>
-
 <div align="center">
 
 ## 🛠️ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Tech Stack
@@ -93,10 +89,6 @@ class Galib:
 
 </div>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</p>
-
 <div align="center">
 
 ## 🚀 <img src="https://media.giphy.com/media/l3vR16pONMY0w11jG/giphy.gif" width="30"> Featured Projects
@@ -113,10 +105,6 @@ class Galib:
 | **OCT Signal Extraction**     | Clinically relevant feature extraction from Optical Coherence Tomography signals                                 | `Deep Learning` `Medical Imaging` |
 | **Bengali STEM Translation**  | STEM content translation into Bengali with terminology consistency for AI-FICATION                               | `NLP` `Multilingual AI`           |
 | **Agents Intensive Capstone** | Multi-agent workflows with task delegation, coordination, and evaluation — Google & Kaggle                       | `Multi-Agent AI`                  |
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</p>
 
 <div align="center">
 
@@ -156,44 +144,32 @@ class Galib:
 </tbody>
 </table>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</p>
-
 <div align="center">
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theboredman&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true&ring_color=1f6feb&icon_color=1f6feb&title_color=e6edf3&text_color=8b949e&bg_color=0d1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theboredman&layout=compact&theme=react&hide_border=true&title_color=e6edf3&text_color=8b949e&bg_color=0d1117" alt="Top Langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theboredman&theme=react&hide_border=true&ring=1f6feb&fire=1f6feb&currStreakLabel=e6edf3&sideLabels=8b949e&background=0d1117" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theboredman&theme=react&hide_border=true&bg_color=0d1117&color=8b949e&line=1f6feb&point=e6edf3&area=true&area_color=1f6feb" alt="Activity Graph" />
-</p>
-
-</div>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</p>
-
-<div align="center">
-
-## 🏆 Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=theboredman&theme=darkhub&no-frame=true&column=7&margin-w=10"/>
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=theboredman&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&ring_color=1f6feb&icon_color=1f6feb&title_color=e6edf3&text_color=8b949e&bg_color=0d1117" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theboredman&layout=compact&theme=github_dark&hide_border=true&title_color=e6edf3&text_color=8b949e&bg_color=0d1117" alt="Top Langs" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=theboredman&theme=github-dark-blue&hide_border=true&ring=1f6feb&fire=1f6feb&currStreakLabel=e6edf3&sideLabels=8b949e&background=0d1117" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=theboredman&hide_border=true&bg_color=0d1117&color=8b949e&line=1f6feb&point=e6edf3&area=true&area_color=1f6feb" alt="Activity Graph" />
+    </td>
+  </tr>
+</table>
 
 </div>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</p>
 
 <div align="center">
 
@@ -208,10 +184,6 @@ class Galib:
 > _To activate the snake, add the [snake workflow](https://github.com/Platane/snk) to your profile repo's GitHub Actions._
 
 </div>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</p>
 
 <br/>
 
