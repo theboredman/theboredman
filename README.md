@@ -151,10 +151,10 @@ class Galib:
 <table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=theboredman&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&ring_color=1f6feb&icon_color=1f6feb&title_color=e6edf3&text_color=8b949e&bg_color=0d1117" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=theboredman&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&ring_color=1f6feb&icon_color=1f6feb&title_color=e6edf3&text_color=8b949e&bg_color=0d1117" alt="GitHub Stats" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theboredman&layout=compact&theme=github_dark&hide_border=true&title_color=e6edf3&text_color=8b949e&bg_color=0d1117" alt="Top Langs" />
+      <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=theboredman&layout=compact&theme=github_dark&hide_border=true&title_color=e6edf3&text_color=8b949e&bg_color=0d1117" alt="Top Langs" />
     </td>
   </tr>
   <tr>
