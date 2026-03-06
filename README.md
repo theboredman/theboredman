@@ -45,7 +45,8 @@ class Galib:
 
 <div align="center">
 
-## 🛠️ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Tech Stack
+## 🛠️ Tech Stack
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 **`Languages`**
 
