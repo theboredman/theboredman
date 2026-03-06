@@ -94,7 +94,6 @@ class Galib:
 <div align="center">
 
 ## 🚀 Featured Projects
-<img src="https://media.giphy.com/media/l3vR16pONMY0w11jG/giphy.gif" width="300">
 
 </div>
 
