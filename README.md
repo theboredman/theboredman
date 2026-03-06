@@ -4,6 +4,9 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1F6FEB&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=55&lines=Building+intelligent+systems+that+think+%F0%9F%A7%A0;Quantum+ML+%7C+LLM+Orchestration+%7C+Edge+AI+%E2%9A%A1;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" /></a>
 </p>
 
+<br/>
+<br/>
+
 <p align="center">
   <a href="mailto:imgalibb@gmail.com"><img src="https://img.shields.io/badge/Email-imgalibb@gmail.com-1f6feb?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp;
   <a href="https://linkedin.com/in/theboredman"><img src="https://img.shields.io/badge/LinkedIn-theboredman-1f6feb?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
